@@ -20,7 +20,8 @@ DEATH 1 is a GUI application developed in Python using Tkinter and ttkbootstrap.
     Displays input fields for Discord, Instagram, Facebook, GitHub.
     Allows users to add image links.
 
-    ![image](https://github.com/user-attachments/assets/2c9de652-9c79-4406-955a-96dabbf625d8)
+   ![image](https://github.com/user-attachments/assets/a417cd8b-48ce-403e-866d-c19bace361a7)
+
 
 
 🖥 Installation
