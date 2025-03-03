@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/faeee49c-c4b6-4e97-be57-f190d45d77dd)# DOX_tools
+
 🔥 DEATH 1 - Information Collector
 📌 Description
 
