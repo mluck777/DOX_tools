@@ -1,4 +1,4 @@
-# DOX_tools
+![image](https://github.com/user-attachments/assets/faeee49c-c4b6-4e97-be57-f190d45d77dd)# DOX_tools
 🔥 DEATH 1 - Information Collector
 📌 Description
 
@@ -19,6 +19,9 @@ DEATH 1 is a GUI application developed in Python using Tkinter and ttkbootstrap.
     Enables/disables the "Accounts & Passwords" section.
     Displays input fields for Discord, Instagram, Facebook, GitHub.
     Allows users to add image links.
+
+    ![image](https://github.com/user-attachments/assets/2c9de652-9c79-4406-955a-96dabbf625d8)
+
 
 🖥 Installation
 
@@ -73,3 +76,4 @@ GitHub: johndoe_dev - ghpass123
 
 🛑 This project is for educational purposes only.
 ⚠️ Do not use it for illegal activities.
+
